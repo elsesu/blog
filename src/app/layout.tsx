@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import Header from "./components/Header";
-import Banner from "./components/Banner";
 import "./globals.css";
 
 
