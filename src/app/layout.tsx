@@ -18,9 +18,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className='m-7'>
+        
         <Header/>
-        <Banner/>
- 
+   
         {children}</body>
     </html>
   );
