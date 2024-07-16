@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 import "./globals.css";
-import Banner from "./components/Banner"
+import Banner from "./components/Banner";
 import Header from "./components/Header";
 
 
