@@ -1,3 +1,6 @@
+import React from 'react'
+
+
 function Banner () {
   return (
     <div className='flex flex-col lg:flex-row lg:space-x-5 justify-between font-bold'>

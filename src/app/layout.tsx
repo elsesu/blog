@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className='m-7'>
         <Header/>
-        <Banner />
+        <Banner/>
         {children}</body>
     </html>
   );
