@@ -20,6 +20,7 @@ export default function RootLayout({
       <body className='m-7'>
         <Header/>
         <Banner/>
+ 
         {children}</body>
     </html>
   );
